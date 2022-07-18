@@ -1,6 +1,6 @@
 hello git testdemo
-hello git
-hello git
+hello git masterTest
+hello git hot-fix
 hello git
 hello git
 hello git
